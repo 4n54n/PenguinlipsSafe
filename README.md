@@ -1,5 +1,7 @@
 # PenguinlipsSafe V 1.0
 Power up your security with PenguinlipsSafe
+https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafeexe.zip (exe)
+https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafejar.zip (jar)
 
 requirements:
 
