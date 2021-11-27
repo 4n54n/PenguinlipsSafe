@@ -3,7 +3,7 @@ Power up your security with PenguinlipsSafe<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafeexe.zip (exe)<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafejar.zip (jar)
 
-<u># requirements:</u>
+# requirements:
 
 jre v1.8 (minimum)
 
