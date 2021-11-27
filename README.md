@@ -3,7 +3,7 @@ Power up your security with PenguinlipsSafe<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafeexe.zip (exe)<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafejar.zip (jar)
 
-requirements:
+# requirements:
 
 jre v1.8 (minimum)
 
@@ -19,7 +19,7 @@ XAMPP contains the following:
 Apache web server, MySQL, PHP, Perl, a FTP server and phpMyAdmin
 
 
-🔰IMPORTANT !🔰
+# 🔰IMPORTANT !🔰
 
 I made this simple application just for time pass, if you felt the functions I implemented here is junky then you are a Professional developer 😍. Seriously I know im breaking the rules of a developer. But what to do.. Im not a programmer or developer instead im a Pentester (or want to be). again *Im not a developer*.
 
@@ -27,13 +27,14 @@ I made this simple application just for time pass, if you felt the functions I i
 and Thank you for your supports !.
 
 
-Security:
+# Security:
 
 The application is completely coded my me (Ansan Mathew) (27-11-2021), none of the program contains any malicious codes (including anything that compromise your privacy)
 
-Copyright:
+# Copyright:
 
 open source - you can modify/customize without permission but.......*not allowed to sell for any rewards or not allowed to transfer the modified or customized one.
+
 
 PenguinlipsSafeexe.zip
 
