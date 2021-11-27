@@ -21,17 +21,16 @@ Apache web server, MySQL, PHP, Perl, a FTP server and phpMyAdmin
 
 # 🔰IMPORTANT !🔰
 
-I made this simple application just for time pass, if you felt the functions I implemented here is junky then you are a Professional developer 😍. Seriously I know im breaking the rules of a developer. But what to do.. Im not a programmer or developer instead im a Pentester (or want to be). again <b>Im not a developer</b>.
+I made this simple application just for time pass, if you felt the functions I implemented here is junky then you are a Professional developer 😍 Seriously 😀. I know im breaking the rules of a developer. But what to do.. Im not a programmer or developer instead im a Pentester (or want to be). again <b>Im not a developer</b>.
 
 
-<b>and Thank you for your support !.</b>
+<b>and Thank You for your support !.</b>
 
 
 # Security:
 
 The application is completely coded my me (Ansan Mathew) (27-11-2021), none of the program contains any malicious codes (including anything that compromise your privacy)
 <b>You may encounter security warnings while downloading / executing the exe file, just ignore it / download the jar file<b>
-
 
 
 <b>PenguinlipsSafeexe.zip</b>
@@ -50,5 +49,5 @@ SHA-256 : 1373875DAA67FC191235650E28241F55C6181875F4AA3433198DDDBFDFD14467
 
 # Copyright:
 
-open source - you can modify/customize without permission but.......*not allowed* to sell for any rewards in return or not allowed to transfer the modified or customized one.
+open source - you can modify/customize without permission but.....🔴not allowed to sell for any rewards in return or 🔴not allowed to transfer the modified or customized one.
 
