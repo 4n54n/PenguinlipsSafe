@@ -3,7 +3,7 @@ Power up your security with PenguinlipsSafe<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafeexe.zip (exe)<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafejar.zip (jar)
 
-# requirements:
+<u># requirements:</u>
 
 jre v1.8 (minimum)
 
@@ -21,10 +21,10 @@ Apache web server, MySQL, PHP, Perl, a FTP server and phpMyAdmin
 
 # 🔰IMPORTANT !🔰
 
-I made this simple application just for time pass, if you felt the functions I implemented here is junky then you are a Professional developer 😍. Seriously I know im breaking the rules of a developer. But what to do.. Im not a programmer or developer instead im a Pentester (or want to be). again <b>Im not a developer<b>.
+I made this simple application just for time pass, if you felt the functions I implemented here is junky then you are a Professional developer 😍. Seriously I know im breaking the rules of a developer. But what to do.. Im not a programmer or developer instead im a Pentester (or want to be). again <b>Im not a developer</b>.
 
 
-<b>and Thank you for your supports !.<b>
+<b>and Thank you for your supports !.</b>
 
 
 # Security:
