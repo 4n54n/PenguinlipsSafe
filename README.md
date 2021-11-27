@@ -31,9 +31,6 @@ I made this simple application just for time pass, if you felt the functions I i
 
 The application is completely coded my me (Ansan Mathew) (27-11-2021), none of the program contains any malicious codes (including anything that compromise your privacy)
 
-# Copyright:
-
-open source - you can modify/customize without permission but.......*not allowed to sell for any rewards or not allowed to transfer the modified or customized one.
 
 
 PenguinlipsSafeexe.zip
@@ -46,3 +43,11 @@ PenguinlipsSafejar.zip
 
 SHA-1 : C15083A1A6253F7FA808BE608DEFF884E75FA0D1
 SHA-256 : 1373875DAA67FC191235650E28241F55C6181875F4AA3433198DDDBFDFD14467
+
+
+
+
+# Copyright:
+
+open source - you can modify/customize without permission but.......*not allowed to sell for any rewards or not allowed to transfer the modified or customized one.
+
