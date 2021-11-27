@@ -30,6 +30,7 @@ I made this simple application just for time pass, if you felt the functions I i
 # Security:
 
 The application is completely coded my me (Ansan Mathew) (27-11-2021), none of the program contains any malicious codes (including anything that compromise your privacy)
+<b>You may encounter security warnings while downloading / executing the exe file, just ignore it / download the jar file<b>
 
 
 
