@@ -1,5 +1,6 @@
-# 🟩PenguinlipsSafe V 1.0
-Power up your security with PenguinlipsSafe<br>
+# 🟩PenguinlipsSafe 
+# V 1.0<br>
+Power up your online security with PenguinlipsSafe by generating and storing a random 16 digit password with numbers, digits and symbols.<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafeexe.zip (exe)<br>
 https://github.com/penguinlips/updates/raw/main/safe/PenguinlipsSafejar.zip (jar)
 
@@ -36,14 +37,14 @@ The application is completely coded my me (Ansan Mathew) (27-11-2021), none of t
 
 <b>PenguinlipsSafeexe.zip</b>
 
-SHA-1 : D05B78BD1BC8BD4786DCECE68209AAA9C65A9F02<br>
-SHA-256 : A2EC87F9DF205EC395305AA06E8EC6C52717A90B72184639EB486A16DF7753F9
+SHA-1 : 2567A87DF530139F780D1DC3A55E9E77BA03D833<br>
+SHA-256 : E3476D676F731AF544E19CB8F07DE2112D680C15DED15BB5C756DEF39B710467
 
 
 <b>PenguinlipsSafejar.zip</b>
 
-SHA-1 : C15083A1A6253F7FA808BE608DEFF884E75FA0D1<br>
-SHA-256 : 1373875DAA67FC191235650E28241F55C6181875F4AA3433198DDDBFDFD14467
+SHA-1 : 40757E582065017F5B7C515B5D9ACB9AF55D3200<br>
+SHA-256 : 8FBCDEA0EC8B07136D74C08DECB2370794364088F2F1D7709401D67DA83BE0AF
 
 
 
